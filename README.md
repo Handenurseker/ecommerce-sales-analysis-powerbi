@@ -22,8 +22,6 @@ The analysis focuses on:
 2. Sales Analysis
 3. Customer Analysis
 
-
-
 ## Key Insights
 - A few cities contribute a significant share of total revenue.
 - Revenue is concentrated in top-performing locations.
